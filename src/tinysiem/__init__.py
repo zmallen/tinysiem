@@ -1,0 +1,1 @@
+"""TinySIEM learning project."""
